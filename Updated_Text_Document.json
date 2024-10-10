@@ -1,0 +1,209 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "price": 59.99,
+            "release_date": "2017-03-03",
+            "description": "An open-world adventure game set in the kingdom of Hyrule.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 2,
+            "title": "Cyberpunk 2077",
+            "price": 49.99,
+            "release_date": "2020-12-10",
+            "description": "A futuristic open-world RPG set in the dystopian Night City.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8y.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 3,
+            "title": "Minecraft",
+            "price": 26.95,
+            "release_date": "2011-11-18",
+            "description": "A sandbox game that allows players to build and explore virtual worlds made of blocks.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8z.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 4,
+            "title": "The Witcher 3: Wild Hunt",
+            "price": 39.99,
+            "release_date": "2015-05-19",
+            "description": "An action RPG set in a fantasy world filled with monsters and magic.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r90.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 5,
+            "title": "Among Us",
+            "price": 4.99,
+            "release_date": "2018-06-15",
+            "description": "A multiplayer party game where players work together to complete tasks while identifying impostors.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r91.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 6,
+            "title": "Elden Ring",
+            "price": 59.99,
+            "release_date": "2022-02-25",
+            "description": "An action RPG set in a dark fantasy world created by Hidetaka Miyazaki and George R. R. Martin.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r92.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 7,
+            "title": "Hades",
+            "price": 24.99,
+            "release_date": "2020-09-17",
+            "description": "A rogue-like dungeon crawler where you defy the god of the dead as you hack and slash out of the Underworld.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r93.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 8,
+            "title": "Stardew Valley",
+            "price": 14.99,
+            "release_date": "2016-02-26",
+            "description": "A farming simulation game where you build and manage your own farm.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r94.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 9,
+            "title": "Red Dead Redemption 2",
+            "price": 59.99,
+            "release_date": "2018-10-26",
+            "description": "An open-world western adventure game set in the late 1800s.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r95.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 10,
+            "title": "Hollow Knight",
+            "price": 14.99,
+            "release_date": "2017-02-24",
+            "description": "An action-adventure game set in a vast, interconnected world.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r96.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 11,
+            "title": "Celeste",
+            "price": 19.99,
+            "release_date": "2018-01-25",
+            "description": "A platformer about climbing a mountain, facing your inner demons, and overcoming challenges.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r97.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 12,
+            "title": "Doom Eternal",
+            "price": 59.99,
+            "release_date": "2020-03-20",
+            "description": "A first-person shooter where you battle demons from Hell.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r98.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 13,
+            "title": "Animal Crossing: New Horizons",
+            "price": 59.99,
+            "release_date": "2020-03-20",
+            "description": "A life simulation game where you build and manage your own island paradise.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r99.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 14,
+            "title": "Super Mario Odyssey",
+            "price": 59.99,
+            "release_date": "2017-10-27",
+            "description": "A 3D platformer where Mario travels across various worlds to rescue Princess Peach.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra0.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 15,
+            "title": "The Last of Us Part II",
+            "price": 59.99,
+            "release_date": "2020-06-19",
+            "description": "An action-adventure game set in a post-apocalyptic world.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra1.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 16,
+            "title": "Ghost of Tsushima",
+            "price": 59.99,
+            "release_date": "2020-07-17",
+            "description": "An open-world action-adventure game set in feudal Japan.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra2.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 17,
+            "title": "Persona 5 Royal",
+            "price": 59.99,
+            "release_date": "2019-10-31",
+            "description": "An enhanced version of Persona 5 with new content and features.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra3.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 18,
+            "title": "Sekiro: Shadows Die Twice",
+            "price": 59.99,
+            "release_date": "2019-03-22",
+            "description": "An action-adventure game set in a reimagined late 1500s Japan.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra4.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 19,
+            "title": "Resident Evil Village",
+            "price": 59.99,
+            "release_date": "2021-05-07",
+            "description": "A survival horror game set in a mysterious village.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra5.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 20,
+            "title": "Final Fantasy VII Remake",
+            "price": 59.99,
+            "release_date": "2020-04-10",
+            "description": "A remake of the classic RPG with modern graphics and gameplay.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra6.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 21,
+            "title": "Genshin Impact",
+            "price": 0.0,
+            "release_date": "2020-09-28",
+            "description": "An open-world action RPG with gacha mechanics.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra7.jpg",
+            "on_sale": false
+        },
+        {
+            "id": 22,
+            "title": "Fortnite",
+            "price": 0.0,
+            "release_date": "2017-07-25",
+            "description": "A battle royale game where players fight to be the last one standing.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ra8.jpg",
+            "on_sale": true
+        },
+        {
+            "id": 23,
+            "title": "Apex Legends",
+            "price": 0.0,
+            "release_date": "2019",
+            "on_sale": false
+        }
+    ]
+}
